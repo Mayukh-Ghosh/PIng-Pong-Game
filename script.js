@@ -11,7 +11,7 @@ const paddleBorder = "snow";
 const ballColor = "yellow";
 const ballBorderColor = "snow";
 const ballRadius = 12.5;
-const paddleSpeed = 50;
+const paddleSpeed = 70;
 
 
 let intervalID;
